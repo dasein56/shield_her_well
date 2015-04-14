@@ -1,4 +1,4 @@
-Beneath the lamp the lady bowed,
+    Beneath the lamp the lady bowed,
     And slowly rolled her eyes around;
     Then drawing in her breath aloud,
     Like one that shuddered, she unbound
