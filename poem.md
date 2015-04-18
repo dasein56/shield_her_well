@@ -1,3 +1,5 @@
+   from #Christabel
+   
     Beneath the lamp the lady bowed,
     And slowly rolled her eyes around;
     Then drawing in her breath aloud,
@@ -5,9 +7,9 @@
     The cincture from beneath her breast:
     Her silken robe, and inner vest,
     Dropt to her feet, and full in view,
-    Behold! her bosom, and half her side -
+    *Behold!* her bosom, and half her side -
     A sight to dream of, not to tell!
-    O shield her! shield sweet Christabel!
+    _O shield her! shield sweet Christabel!_
 
     Yet Geraldine nor speaks nor stirs;
     Ah! what a stricken look was hers!
@@ -18,3 +20,5 @@
     Collects herself in scorn and pride,
     And lay down by the Maiden’s side! -
     And in her arms the maid she took,
+
+http://www.public-domain-poetry.com/samuel-taylor-coleridge/christabel-7340
