@@ -1,4 +1,4 @@
-   from #Christabel
+   #Christabel
    
     Beneath the lamp the lady bowed,
     And slowly rolled her eyes around;
